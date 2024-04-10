@@ -115,7 +115,7 @@ export const personalData = {
   twitter: "#",
   stackOverflow: "#",
   leetcode: "#",
-  devUsername: "#",
+  devUsername: "shaiksalam9182",
   resume: "...",
 };
 ```
