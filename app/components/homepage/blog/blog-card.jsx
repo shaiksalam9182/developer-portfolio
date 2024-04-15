@@ -16,6 +16,7 @@ function BlogCard({ blog }) {
           height={1080}
           width={1920}
           alt=""
+          unoptimized={true}
           className='h-full w-full group-hover:scale-110 transition-all duration-300'
         />
       </div>
