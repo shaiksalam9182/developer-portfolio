@@ -7,7 +7,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Recommendations Engine Using OpenAI Models',
-        description: "Built a Recommendation Engine using Open AI models. This is for a OTT platform. By using OpenAI models, we generated Embeddings for the OTT Content and stored the Embedings in the AWS S3. Using Cosine similarity, we genrated similar contents for each content and stored them RDS Mysql Database. By using API Gateway API these similar contents will be served to the end users. I was responsible for designing architecture and the development of this project",
+        description: "I led the development and architectural design of a recommendation engine for an OTT platform, leveraging OpenAI models. Our approach involved generating content embeddings using OpenAI models and storing these embeddings on AWS S3 for efficient retrieval. To facilitate content recommendations, we utilized cosine similarity algorithms to identify content with high degrees of similarity. The results were then systematically stored in an RDS MySQL database. For content delivery, we implemented an API Gateway, which served the recommended content directly to end-users. This project required a thorough understanding of both AI technologies and cloud infrastructure, ensuring robust and scalable system performance",
         tools: ['Python', 'OpenAI API', 'AWS Lambda', 'AWS S3', 'MySQL', 'AWS API Gateway'],
         role: 'AWS Developer',
         code: '',
@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'AI Powered Search Engine for OTT platforms',
-        description: 'I have designed and developed a serch engine that not only search based on string comparison but also based on the context of the search query. This was implemented using OpenAI models and Elastic search. Embeddings will be generated using Open AI models for search content. These embeddings are stored and queried using Elastic search. This is power full search engine which will understand the user query like normal human and provides similar contents to user',
+        description: 'I spearheaded the design and development of an advanced search engine that enhances traditional string-based searches with contextual understanding. Utilizing OpenAI models, we generated embeddings for the search content to capture the deeper meaning and context of user queries. These embeddings are stored and efficiently queried using Elasticsearch, enabling a dynamic and responsive search experience. This powerful search engine mimics human-like comprehension, allowing it to interpret queries contextually and deliver highly relevant content to users. The integration of cutting-edge AI with robust search technology significantly improves the accuracy and relevance of search results.',
         tools: ['Elastic Search','Python', 'OpenAI API', 'AWS Lambda', 'AWS S3', 'MySQL', 'AWS API Gateway'],
         role: 'AWS Developer',
         code: '',
