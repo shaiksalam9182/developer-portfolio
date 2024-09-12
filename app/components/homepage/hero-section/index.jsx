@@ -26,8 +26,8 @@ function HeroSection() {
             Hello, <br />
             This is {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            {` , I'm a `}
-            <span className=" text-[#16f2b3]">{personalData.designation}, AWS Community Builder and AWS Tech Blogger</span>
+            {` , I'm an `}
+            <span className=" text-[#16f2b3]">{personalData.designation}, Certified AWS architect, AWS Community Builder and AWS Tech Blogger</span>
             .
           </h1>
 
@@ -93,21 +93,17 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">Docker</span>
+                <span className="text-amber-300">Kotlin</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Lightning.Js</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Android Tv</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Bash</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Python</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Java</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Kotlin</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Javascript</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
