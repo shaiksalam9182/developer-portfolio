@@ -1,10 +1,10 @@
 export const personalData = {
   name: "SALAM SHAIK",
   profile: '/profile.jpg',
-  designation: "Certified AWS solution architect",
-  description: "My name is SALAM SHAIK. As an AWS Solution Architect, I bring a dynamic and proactive approach to cloud architecture, underpinned by a deep passion for technology and innovation. My professional journey is marked by a steadfast commitment to continuous learning and an innate curiosity about emerging tech trends. With a solid foundation in cloud computing principles and a keen interest in architecting scalable, resilient, and cost-effective solutions on AWS, I thrive in environments that challenge me to solve complex problems. My expertise extends across a broad spectrum of AWS services, enabling me to design and implement robust architectures that meet diverse operational requirements.",
+  designation: "Android Mobile, TV App Developer",
+  description: "My name is Salam Shaik, an Android mobile and TV app developer with expertise in the OTT domain and Lightning.js. I have built a strong foundation in creating innovative and scalable applications for Android devices and TV platforms. With a keen interest in cloud technologies, I am also working on cloud solutions to enhance my technical knowledge. My professional journey reflects a passion for continuous learning, combining my deep expertise in mobile and TV development with a growing interest in architecting solutions in the cloud space.",
   email: 'shaiksalam9182@gmail.com',
-  phone: '+918500755765',
+  phone: '+91 8500755765',
   address: 'Hyderabad, Telangana, India - 500081 ',
   github: 'https://github.com/shaiksalam9182',
   facebook: '#',

@@ -7,8 +7,6 @@ export const skillsData = [
   'Git',
   'AWS',
   'Docker',
-  'Firebase',
-  'Nginx',
   'Firebase'
 ]
 
